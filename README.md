@@ -12,3 +12,7 @@ A base image with Genocrunch
 ## Rights
 
 - **License:** MIT (See LICENSE.txt for details)
+
+## Contributing
+
+Thank you for your interest in contributing. Get started [here](https://github.com/genocrunch/genocrunch-docker-base/CONTRIBUTING.md).
